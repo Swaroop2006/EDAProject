@@ -1,0 +1,263 @@
+department,work_accident,emp_id,left_company,salary_k,education_level,promotion_last_5years,years_at_company
+Finance,0,E60000,0.0,53.06,BACHELORS,0,14.0
+Support,1,E60001,1.0,82.23,PhD,0,16.0
+Finance,0,E60002,0.0,165.15,MASTERS,1,14.0
+Sales,0,E60001,0.0,51.28,Masters,0,9.0
+Sales,0,E60004,1.0,39.74,Bachelors,1,27.0
+HR,0,E60001,0.0,112.87,HIGH SCHOOL,0,3.0
+FINANCE,0,E60001,0.0,120.57,Masters,0,21.0
+HR,0,E60007,0.0,36.24,Masters,1,16.0
+Engineering,0,E60008,0.0,71.21,Masters,0,3.0
+Engineering,0,E60009,0.0,67.3,Ph,0,21.0
+Sales,1,E60010,0.0,53.52,PhD,0,22.0
+Finance,0,E60011,0.0,76.81,High chool,0,28.0
+Sales,0,E60012,0.0,100.185,Bachelors,0,21.0
+Sales,0,E60013,0.0,100.185,PHD,0,10.0
+HR,0,E60014,1.0,197.93,Masters,0,3.0
+Sales,1,E60015,0.0,100.185,Bachelors,0,11.0
+SALES,1,E60016,0.0,84.99,BACHELORS,0,28.0
+Finance,0,E60017,0.0,140.22,BACHELORS,1,22.0
+Finance,0,E60018,0.0,122.87,Masters,0,9.0
+Finance,0,E60019,0.0,172.42,Masters,0,13.0
+Sales,0,E60020,0.0,131.94,PhD,0,17.0
+Finance,0,E60021,0.0,134.13,Bachelors,0,5.0
+Finance,0,E60001,0.0,59.9,High chool,0,4.0
+Support,0,E60023,0.0,94.81,High School,0,1.0
+Support,0,E60024,0.0,81.99,Masters,0,24.0
+Engineerig,0,E60025,0.0,22.06,hD,0,12.0
+HR,0,E60001,0.0,76.39,HIGH SCHOOL,0,22.0
+HR,0,E60027,0.0,107.49,Msters,0,13.0
+Finance,0,E60001,0.0,127.97,High school,0,2.0
+Engineering,0,E60029,0.0,100.185,Masters,1,15.0
+Engineering,0,E60030,0.0,63.04,PhD,0,10.0
+SUPPORT,1,E60031,0.0,47.44,High School,1,26.0
+Engineering,0,E60032,0.0,176.5,High School,0,21.0
+Sales,0,E60033,0.0,189.53,High School,0,22.0
+FINANCE,0,E60034,1.0,107.83,High School,1,3.0
+Sales,1,E60035,0.0,40.74,Bacelors,1,12.0
+HR,0,E60036,0.0,107.37,Bachelors,0,28.0
+Support,1,E60037,0.0,39.7,Ph,1,25.0
+Sales,0,E60038,1.0,178.97,PhD,0,28.0
+FINANCE,0,E60039,0.0,147.47,Masters,0,7.0
+Sales,0,E60040,0.0,63.4,Bachelors,1,7.0
+SALES,0,E60041,1.0,179.6,PHD,0,22.0
+ENGINEERING,1,E60001,0.0,134.82,Masters,0,12.0
+Support,0,E60043,0.0,191.59,Bachelors,1,22.0
+HR,0,E60001,1.0,196.49,Bachelors,0,9.0
+Finace,0,E60045,0.0,20.59,Bachelors,0,12.0
+Finance,0,E60046,0.0,41.64,High Scool,0,15.0
+HR,0,E60047,0.0,118.45,Masters,0,23.0
+Finance,0,E60048,1.0,192.05,Masters,1,16.0
+Engineering,0,E60049,0.0,198.96,PhD,yes,15.0
+Sales,0,E60050,0.0,122.13,Masters,0,1.0
+Engneering,1,E60001,0.0,51.28,High School,0,16.0
+Engineering,0,E60052,0.0,49.35,BACHELORS,0,11.0
+Engineering,0,E60053,0.0,157.49,Masters,0,25.0
+Hr,0,E60054,0.0,126.55,Bachelors,0,22.0
+Support,0,E60055,0.0,118.78,PhD,0,5.0
+HR,0,E60056,0.0,103.84,Masters,0,4.0
+HR,0,E60057,1.0,150.52,PhD,0,4.0
+ENGINEERING,0,E60058,0.0,174.45,PhD,0,24.0
+Support,0,E60059,1.0,74.53,Ph,0,8.0
+Hr,0,E60060,0.0,59.77,Masters,0,27.0
+Support,0,E60061,1.0,140.64,PhD,1,27.0
+Engineering,0,E60062,1.0,184.65,igh School,0,21.0
+Hr,0,E60063,0.0,82.67,High School,0,15.0
+Suppot,0,E60064,0.0,69.04,PHD,0,2.0
+inance,0,E60065,0.0,60.7,Bachelors,yes,22.0
+R,0,E60066,1.0,65.81,PhD,0,15.0
+HR,0,E60067,1.0,44.29,PhD,0,15.0
+HR,0,E60068,0.0,127.42,Bachelors,0,6.0
+SUPPORT,0,E60069,0.0,70.55,MASTERS,1,11.0
+Finance,0,E60070,0.0,130.69,MASTERS,0,6.0
+HR,0,E60001,0.0,34.95,Phd,1,9.0
+Finance,0,E60072,1.0,100.185,High School,1,7.0
+Finance,0,E60073,0.0,116.51,High School,1,16.0
+Engineering,0,E60074,1.0,112.08,HIGH SCHOOL,0,4.0
+Sales,1,E60075,0.0,100.185,PhD,0,14.0
+Sales,1,E60076,1.0,168.88,High School,0,27.0
+Suport,0,E60001,0.0,53.67,High School,1,8.0
+Engineering,0,E60078,0.0,100.185,Masters,0,22.0
+Support,0,E60079,0.0,119.99,PhD,yes,10.0
+Engineering,1,E60080,0.0,176.1,Masters,0,27.0
+Sales,0,E60081,0.0,95.34,Bachelors,0,12.0
+Support,0,E60082,0.0,91.75,MASTERS,0,17.0
+ENGINEERING,1,E60083,0.0,100.185,PD,0,16.0
+Finance,0,E60084,0.0,77.01,HIGH SCHOOL,0,23.0
+Finance,0,E60085,0.0,100.185,Phd,0,8.0
+HR,1,E60086,0.0,64.77,Masters,0,9.0
+Finance,1,E60087,0.0,168.18,PhD,0,4.0
+H,0,E60088,0.0,69.02,Phd,0,29.0
+Sales,1,E60089,0.0,198.69,Masters,0,10.0
+SUPPORT,0,E60090,1.0,76.96,Masters,0,21.0
+Finance,0,E60091,0.0,178.19,Bachelors,0,14.0
+Finance,0,E60092,0.0,91.52,achelors,yes,1.0
+Engineering,1,E60093,0.0,64.29,Masters,0,15.0
+Finance,0,E60094,0.0,60.71,Masters,0,20.0
+Finance,0,E60095,0.0,173.03,Masters,0,27.0
+Sales,0,E60001,0.0,75.58,High School,0,19.0
+Finance,0,E60097,0.0,80.94,Bachelors,1,23.0
+Finance,0,E60098,0.0,55.46,Masters,0,15.0
+Finance,0,E60099,0.0,193.04,Phd,1,13.0
+Support,1,E60100,0.0,64.05,HIGH SCHOOL,0,4.0
+Sales,0,E60101,0.0,64.54,MASTERS,0,26.0
+FINANCE,0,E60102,1.0,189.9,Masters,0,23.0
+Engineering,0,E60103,0.0,182.16,MASTERS,0,5.0
+Hr,0,E60104,1.0,64.8,High School,0,25.0
+HR,0,E60105,0.0,175.65,High school,0,21.0
+Sales,0,E60106,0.0,64.97,High School,0,15.0
+HR,0,E60107,0.0,35.2,Masters,0,14.0
+SUPPORT,0,E60108,0.0,167.67,Masters,0,28.0
+Support,0,E60109,1.0,158.88,Masters,0,3.0
+Engineering,0,E60110,0.0,73.04,High School,1,9.0
+Sales,0,E60111,0.0,36.23,High School,yes,27.0
+Sals,0,E60112,0.0,57.16,PhD,0,26.0
+Hr,0,E60113,0.0,100.185,Bachelors,0,18.0
+Finance,0,E60114,0.0,193.65,MASTERS,0,8.0
+FINANCE,0,E60115,0.0,66.62,High school,0,20.0
+Finance,0,E60001,0.0,167.29,Bachelors,0,25.0
+Engineering,0,E60117,0.0,61.03,HighSchool,0,9.0
+Sales,0,E60118,1.0,100.185,High school,0,15.0
+HR,0,E60119,0.0,35.05,Masters,1,21.0
+Finance,0,E60120,1.0,125.35,Bachelors,0,29.0
+Support,0,E60121,0.0,68.45,High School,0,3.0
+Support,1,E60122,0.0,186.65,Bachelors,0,5.0
+upport,1,E60123,0.0,72.16,BACHELORS,0,25.0
+SALES,0,E60124,0.0,91.72,Masters,0,7.0
+Support,0,E60125,0.0,171.32,BACHELORS,0,15.0
+FINANCE,0,E60126,0.0,98.89,PhD,0,7.0
+Support,0,E60127,0.0,62.91,PhD,0,27.0
+Engineering,0,E60128,0.0,118.56,MASTERS,0,15.0
+Support,0,E60129,1.0,171.2,Masters,0,5.0
+Finance,0,E60130,1.0,97.97,PhD,ye,16.0
+Support,0,E60131,0.0,43.92,MASTERS,0,28.0
+HR,0,E60001,0.0,88.96,Bachelors,0,15.0
+Finance,1,E60133,0.0,191.81,HighSchool,0,29.0
+Sales,0,E60134,0.0,32.96,Masters,1,18.0
+Spport,0,E60135,0.0,93.52,PHD,1,17.0
+ENGINEERING,0,E60136,0.0,136.65,High school,0,16.0
+Support,0,E60137,0.0,34.13,Bachelors,yes,16.0
+Engineering,0,E60138,0.0,100.185,High School,0,27.0
+HR,1,E60139,0.0,189.3,Masters,0,11.0
+Sales,0,E60140,0.0,25.51,High School,1,11.0
+Finance,0,E60141,0.0,100.185,PhD,0,5.0
+Finance,0,E60142,1.0,171.45,Masters,0,6.0
+Sales,1,E60143,0.0,69.87,Masters,0,15.0
+HR,0,E60144,0.0,58.65,PhD,0,2.0
+H,1,E60145,0.0,184.67,Masters,0,16.0
+Support,0,E60146,0.0,157.52,Bachelors,0,20.0
+R,0,E60147,0.0,40.41,High School,0,7.0
+Support,0,E60148,1.0,58.2,PD,1,27.0
+Engineering,0,E60149,0.0,131.84,Ph,0,26.0
+Sales,1,E60150,0.0,95.5,hD,0,29.0
+Engineering,0,E60151,0.0,110.75,Bachelors,0,10.0
+ENGINEERING,0,E60152,0.0,191.28,Bachelors,0,19.0
+ENGINEERING,0,E60153,0.0,95.64,Bachelors,0,17.0
+ENGINEERING,0,E60154,0.0,178.7,Phd,0,15.0
+Finance,0,E60001,0.0,138.93,Bachelors,yes,24.0
+H,0,E60156,0.0,41.89,Masters,0,27.0
+Finance,0,E60157,0.0,154.01,High School,yes,12.0
+SALES,0,E60158,0.0,113.64,Masters,0,15.0
+Engineering,0,E60159,0.0,60.52,Msters,0,18.0
+Finance,0,E60160,1.0,72.12,Bachelors,0,6.0
+Support,0,E60161,0.0,120.32,PhD,0,28.0
+SALES,0,E60162,0.0,128.31,Maters,0,16.0
+Engineering,1,E60163,0.0,194.27,High chool,0,7.0
+Saes,0,E60164,0.0,173.85,Bachelors,0,7.0
+HR,0,E60165,0.0,100.185,Masters,0,15.0
+ENGINEERING,0,E60166,0.0,159.32,BACHELORS,1,2.0
+Finance,0,E60001,0.0,21.49,High school,0,15.0
+HR,0,E60168,1.0,43.37,Bachelors,0,11.0
+ales,0,E60169,1.0,55.95,hD,0,15.0
+Finance,0,E60170,0.0,127.5,Masters,0,20.0
+Hr,1,E60171,0.0,55.04,Masters,1,3.0
+Support,0,E60172,0.0,85.75,PhD,0,22.0
+HR,1,E60173,0.0,63.7,High School,1,26.0
+Finance,0,E60174,0.0,100.185,High School,0,6.0
+Support,0,E60175,0.0,189.64,BACHELORS,0,10.0
+Sales,0,E60176,0.0,199.53,MASTERS,0,23.0
+Finance,0,E60001,0.0,143.43,High Schol,yes,4.0
+Sales,1,E60178,0.0,123.02,PhD,0,12.0
+Engineering,1,E60179,0.0,147.52,PHD,1,10.0
+Engineering,0,E60180,0.0,100.185,Phd,0,4.0
+Finance,1,E60181,0.0,153.02,High School,0,7.0
+Support,0,E60182,0.0,34.74,hD,0,20.0
+Support,0,E60183,1.0,100.185,Masters,0,28.0
+HR,0,E60184,0.0,81.82,Masters,0,29.0
+Sales,0,E60185,0.0,86.47,Hig School,0,28.0
+inance,0,E60186,0.0,81.98,Masters,0,16.0
+SALES,0,E60187,0.0,161.68,Ph,1,10.0
+Hr,0,E60188,0.0,154.57,Masters,yes,18.0
+HR,0,E60189,1.0,20.83,Masters,0,17.0
+Finance,0,E60190,0.0,73.35,Masters,1,15.0
+HR,0,E60191,0.0,132.26,Bachelors,0,9.0
+Finance,0,E60192,0.0,41.65,PhD,0,15.0
+HR,0,E60193,0.0,32.82,PD,0,28.0
+Support,0,E60194,1.0,169.11,Masters,0,23.0
+Finance,0,E60195,0.0,101.48,High school,0,15.0
+Support,0,E60196,1.0,174.02,Bachlors,yes,24.0
+Support,0,E60197,0.0,168.24,Bachelos,0,0.0
+Finance,0,E60001,0.0,180.81,High school,0,16.0
+Saes,0,E60199,0.0,28.69,BACHELORS,0,16.0
+Engineering,0,E60200,0.0,53.5,Masters,0,0.0
+HR,1,E60201,0.0,73.31,Bachelors,0,24.0
+HR,0,E60202,0.0,44.52,High School,0,0.0
+Sales,0,E60203,0.0,107.38,Masters,0,22.0
+Engineering,1,E60204,0.0,163.82,Masters,0,21.0
+Sales,1,E60205,0.0,191.21,Bachelors,0,8.0
+ENGINEERING,0,E60206,0.0,180.12,BACHELORS,0,26.0
+Finance,0,E60207,0.0,102.32,Masters,1,24.0
+Finance,0,E60208,0.0,134.57,hD,0,3.0
+Suppot,0,E60209,0.0,61.53,High Scool,0,8.0
+Finance,1,E60210,0.0,92.54,Ph,0,13.0
+Finance,0,E60211,0.0,176.81,Bahelors,0,14.0
+Support,0,E60212,1.0,25.26,Masters,0,15.0
+Finance,0,E60213,0.0,115.9,Bachelors,0,15.0
+Sales,0,E60214,1.0,177.1,PhD,1,12.0
+HR,0,E60215,0.0,41.96,Masters,yes,13.0
+Finance,1,E60216,0.0,196.86,Masers,0,21.0
+Finance,0,E60217,0.0,22.23,Masters,0,20.0
+Financ,0,E60218,0.0,179.5,High school,0,8.0
+Support,0,E60219,0.0,83.66,Bacheors,0,22.0
+Suport,0,E60220,0.0,43.88,PD,0,15.0
+SUPPORT,0,E60221,0.0,48.32,High School,0,20.0
+Support,0,E60222,1.0,146.21,PhD,0,3.0
+Sals,0,E60223,1.0,176.73,High School,yes,9.0
+Finance,0,E60224,0.0,135.39,MASTERS,1,15.0
+Sales,0,E60225,0.0,187.17,High school,0,20.0
+Suppor,0,E60226,0.0,171.65,Bachelors,yes,8.0
+SALES,0,E60227,0.0,100.185,Masters,0,18.0
+Finance,0,E60228,0.0,140.5,PHD,0,15.0
+Finance,1,E60229,0.0,74.83,Masters,1,15.0
+Support,0,E60230,1.0,101.81,Masters,0,16.0
+FINANCE,0,E60231,0.0,36.93,PhD,0,17.0
+Sales,1,E60232,0.0,70.78,Bachelors,0,15.0
+Engineering,0,E60233,1.0,133.88,Bachelors,0,15.0
+Finance,1,E60234,0.0,100.185,PhD,0,18.0
+Sals,0,E60235,0.0,136.56,Masters,0,21.0
+Sales,0,E60236,0.0,186.15,PhD,0,14.0
+SALES,0,E60237,0.0,20.89,PhD,0,14.0
+Finance,0,E60238,0.0,161.44,High School,0,10.0
+Engineering,1,E60239,0.0,135.44,PhD,0,15.0
+Support,0,E60001,0.0,28.39,Masters,0,21.0
+Support,0,E60241,1.0,162.23,Phd,0,15.0
+Finance,0,E60242,0.0,60.41,Masters,0,9.0
+Finance,1,E60243,0.0,67.85,Masters,0,8.0
+Hr,0,E60244,0.0,36.83,Bachelors,1,14.0
+Engineerig,0,E60245,1.0,116.19,MASTERS,0,21.0
+Finance,0,E60246,0.0,109.68,PhD,0,29.0
+Sales,0,E60247,0.0,82.49,Bachelors,0,4.0
+Support,0,E60248,1.0,50.38,Masters,0,19.0
+Finance,1,E60001,1.0,170.83,PhD,0,1.0
+Finance,0,E60072,1.0,100.185,High School,1,7.0
+Support,0,E60222,1.0,146.21,PhD,0,3.0
+Support,1,E60001,1.0,82.23,PhD,0,16.0
+Suppot,0,E60209,0.0,61.53,High Scool,0,8.0
+Sales,0,E60004,1.0,39.74,Bachelors,1,27.0
+Sales,1,E60089,0.0,198.69,Masters,0,10.0
+HR,1,E60086,0.0,64.77,Masters,0,9.0
+HR,1,E60139,0.0,189.3,Masters,0,11.0
+Suport,0,E60001,0.0,53.67,High School,1,8.0
+FINANCE,0,E60126,0.0,98.89,PhD,0,7.0
+Sales,1,E60076,1.0,168.88,High School,0,27.0
+Finance,0,E60098,0.0,55.46,Masters,0,15.0
